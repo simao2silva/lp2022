@@ -1,1 +1,1 @@
-# lp2022
+# Laboratorios de Programação 2022
